@@ -91,7 +91,7 @@ header .profile-image:hover {
   background-color: #dbffdc;
   color: rgb(68, 67, 67);
 }
-.card {
+.article {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
